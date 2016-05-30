@@ -1,0 +1,12 @@
+C:\Users\Sami\Documents\C# Programming\New folder\SmoothieQueenBiller\SmoothieQueenBiller\bin\Debug\SmoothieQueenBiller.exe.config
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\bin\Debug\SmoothieQueenBiller.exe.config
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\obj\Debug\SmoothieQueenBiller.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\obj\Debug\SmoothieQueenBiller.billingForm.resources
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\obj\Debug\SmoothieQueenBiller.Properties.Resources.resources
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\obj\Debug\SmoothieQueenBiller.csproj.GenerateResource.Cache
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\bin\Debug\SmoothieQueenBiller.exe
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\bin\Debug\SmoothieQueenBiller.pdb
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\obj\Debug\SmoothieQueenBiller.exe
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\obj\Debug\SmoothieQueenBiller.pdb
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\obj\Debug\SmoothieQueenBiller.AboutBox1.resources
+C:\Users\Sami\Documents\C# Programming\Final\SmoothieQueenBiller\SmoothieQueenBiller\obj\Debug\SmoothieQueenBiller.SplashScreen.resources
